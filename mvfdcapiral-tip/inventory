@@ -1,6 +1,6 @@
 [ubuntu]
-192.168.122.4
+192.168.125.4
 
 [ubuntu:vars]
-ansible_ssh_user=gio
-ansible_ssh_pass=awtsgege
+ansible_ssh_user=capiral
+ansible_ssh_pass=capiral1234
